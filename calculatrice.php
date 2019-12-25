@@ -11,7 +11,7 @@
     <meta property="og:type" content="website">
     <link rel="stylsheet" href="css/calculatrice.css" />
 
-    <title>calculatrice yapsy</title>
+    <title>calculatrice yapsys</title>
 </head>
 
 <body style="text-align:center;">
